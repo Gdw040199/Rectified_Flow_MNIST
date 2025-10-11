@@ -1,0 +1,10 @@
+base_channels: 64  
+epochs: 50
+batch_size: 16  
+lr_adjust_epoch: 25 
+batch_print_interval: 100 
+checkpoint_save_interval: 5 
+save_path: './checkpoints/v1.1-cfg'  
+use_cfg: True 
+device: 'cuda'
+ 
