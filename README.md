@@ -231,14 +231,4 @@ python draw_result_fig.py
 
 ## License
 
-This project is licensed under the MIT License.)
-- [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003)
-
-## License
-
-This project is licensed under the MIT License.)
-- [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003)
-
-## License
-
 This project is licensed under the MIT License.
