@@ -74,7 +74,7 @@ python draw_result_fig.py
 
 ## References
 
-- [Flow Matching for Generative Modeling](https://arxiv.org/abs/2306.00941)
+- [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747)
 - [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003)
 
 ## License
