@@ -48,6 +48,9 @@ python train.py
 ```
 
 ### Train a Rectified Flow model
+Before that you should download from this [link](https://pan.baidu.com/s/1q57fetS8QFLwCLAZYZc6sQ?pwd=pz94)
+
+Next, place the data after ```data/``` and then extract all the compressed packages.
 
 ```
 python train_reflow.py 
